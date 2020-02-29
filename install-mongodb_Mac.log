@@ -1,0 +1,16 @@
+git push -u origin master
+git push origin master
+git commit -m "Data from author added."
+git add script.sh
+git commit -m "Data from author added."
+git push origin master
+brew install mongodb-community@4.2
+brew tap mongodb/brew
+brew install mongodb-community@4.2
+ps fax
+ps -fea
+pgrep mongo
+brew services start mongodb-community@4.2
+pgrep mongo
+ps -fea | grep mongo
+history
